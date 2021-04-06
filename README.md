@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [R di Android dengan Termux](https://akherlan.github.io/blog/r-di-android-dengan-termux/)
-- [Nasihat untuk Freelancer](https://akherlan.github.io/blog/nasihat-untuk-freelancer/)
-- [Branch untuk GH-Pages Databoard](https://akherlan.github.io/blog/branch-github-pages-databoard/)
-- [Personal Access Token Github](https://akherlan.github.io/blog/personal-access-token-github/)
-- [PostgreSQL dan RStudio](https://akherlan.github.io/blog/postgresql-dan-rstudio/)
+- [Lagu Favorit](https://akherlan.github.io/lagu-favorit/)
+- [Podcast Buku Langganan](https://akherlan.github.io/podcast-buku-langganan/)
+- [Pindah Blog 'Manual' Lagi Pakai Hugo](https://akherlan.github.io/pindah-blog-manual-lagi-pakai-hugo/)
+- [Bertaruh Dengan Waktu](https://akherlan.github.io/bertaruh-dengan-waktu/)
+- [Kita Punya Waktu](https://akherlan.github.io/kita-punya-waktu/)
 <!-- BLOG-POST-LIST:END -->
 
 
