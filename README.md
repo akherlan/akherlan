@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Olahraga](https://akherlan.github.io/olahraga/)
 - [Lagu Favorit](https://akherlan.github.io/lagu-favorit/)
 - [Podcast Buku Langganan](https://akherlan.github.io/podcast-buku-langganan/)
 - [Pindah Blog 'Manual' Lagi](https://akherlan.github.io/pindah-blog-manual-lagi/)
 - [Bertaruh Dengan Waktu](https://akherlan.github.io/bertaruh-dengan-waktu/)
-- [Kita Punya Waktu](https://akherlan.github.io/kita-punya-waktu/)
 <!-- BLOG-POST-LIST:END -->
 
 
