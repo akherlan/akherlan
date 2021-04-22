@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [QGIS Zürich versi Anaconda](https://akherlan.github.io/qgis-z%C3%BCrich-versi-anaconda/)
 - [Konversi HTML Ke Markdown](https://akherlan.github.io/konversi-html-ke-markdown/)
 - [Lagu Favorit](https://akherlan.github.io/lagu-favorit/)
 - [Podcast Buku Langganan](https://akherlan.github.io/podcast-buku-langganan/)
 - [Pindah Blog 'Manual' Lagi](https://akherlan.github.io/pindah-blog-manual-lagi/)
-- [Bertaruh Dengan Waktu](https://akherlan.github.io/bertaruh-dengan-waktu/)
 <!-- BLOG-POST-LIST:END -->
 
 
