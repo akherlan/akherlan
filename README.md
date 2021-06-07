@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resolusi Tengah Tahun 2021](https://akherlan.github.io/resolusi-tengah-tahun-2021/)
 - [QGIS Zürich versi Anaconda](https://akherlan.github.io/qgis-z%C3%BCrich-versi-anaconda/)
 - [Konversi HTML Ke Markdown](https://akherlan.github.io/konversi-html-ke-markdown/)
 - [Lagu Favorit](https://akherlan.github.io/lagu-favorit/)
 - [Podcast Buku Langganan](https://akherlan.github.io/podcast-buku-langganan/)
-- [Pindah Blog 'Manual' Lagi](https://akherlan.github.io/pindah-blog-manual-lagi/)
 <!-- BLOG-POST-LIST:END -->
 
 
