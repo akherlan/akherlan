@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [For Loop Vs lapply](https://akherlan.github.io/for-loop-vs-lapply/)
 - [Zero Tracker](https://akherlan.github.io/zero-tracker/)
 - [Travel with Gojek](https://akherlan.github.io/travel-with-gojek/)
 - [Habit Tracking](https://akherlan.github.io/habit-tracking/)
 - [Resolusi Tengah Tahun 2021](https://akherlan.github.io/resolusi-tengah-tahun-2021/)
-- [QGIS Zürich versi Anaconda](https://akherlan.github.io/qgis-z%C3%BCrich-versi-anaconda/)
 <!-- BLOG-POST-LIST:END -->
 
 
