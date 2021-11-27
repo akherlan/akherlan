@@ -1,10 +1,10 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube dan Uang](https://akherlan.github.io/youtube-dan-uang/)
 - [For Loop Vs lapply](https://akherlan.github.io/for-loop-vs-lapply/)
 - [Zero Tracker](https://akherlan.github.io/zero-tracker/)
 - [Travel with Gojek](https://akherlan.github.io/travel-with-gojek/)
 - [Habit Tracking](https://akherlan.github.io/habit-tracking/)
-- [Resolusi Tengah Tahun 2021](https://akherlan.github.io/resolusi-tengah-tahun-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
